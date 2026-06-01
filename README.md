@@ -1,5 +1,13 @@
 # Hi there, I'm Panuwat 👋
 
+### 📫 Contact Me
+<p>
+  <a href="mailto:panuwatr66@nu.ac.th">
+    <img src="https://img.shields.io/badge/Email-panuwatr66%40nu.ac.th-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Phone-0969590153-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+</p>
+
 I'm a Computer Science student passionate about building scalable full-stack applications, designing robust databases, and creating seamless user experiences.
 
 ### 🚀 Featured Projects
