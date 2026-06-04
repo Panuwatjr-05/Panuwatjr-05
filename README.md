@@ -51,18 +51,6 @@ Currently looking for a Frontend / Full-Stack internship.
 | **Chill Fill** | Food ordering system via LINE OA | React · Supabase · LINE API | [Demo](https://chill-fill.vercel.app) · [Code](https://github.com/Panuwatjr-05/Chill_Fill) |
 | **Planning** | Personal task & goal management app | Next.js · Tailwind v4 · Supabase | [Demo](https://planning-pearl-xi.vercel.app) · [Code](https://github.com/Panuwatjr-05/Planning) |
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://stats.hyochan.dev/api/github-stats?login=Panuwatjr-05&bg_color=0a0a1a&title_color=4d9fff&icon_color=4d9fff&text_color=6a7fa8&border_color=0a0a1a" height="155"/>
-<img src="https://stats.hyochan.dev/api/github-stats-lang?login=Panuwatjr-05&bg_color=0a0a1a&title_color=4d9fff&text_color=6a7fa8&border_color=0a0a1a" height="155"/>
-
-</div>
-
----
 
 <div align="center">
 
