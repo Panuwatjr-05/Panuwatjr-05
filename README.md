@@ -194,21 +194,6 @@ $ neofetch --github Panuwatjr-05
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Panuwatjr-05&theme=chartreuse-dark&hide_border=true&background=0d0d0d&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00cc33&dates=00cc33" />
 
-</div>
-
----
-
-<div align="center">
-
-```
-> Connection established.
-> All systems operational.
-> Ready to build. Ready to ship.
-
-█ _
-```
-
-![](https://komarev.com/ghpvc/?username=Panuwatjr-05&color=00ff41&style=flat-square&label=sessions_initialized)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=100&section=footer" width="100%"/>
 
