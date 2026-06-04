@@ -25,20 +25,20 @@ Currently looking for a Frontend / Full-Stack internship.
 
 ### ⚙️ Tech Stack
 
-![Next.js](https://img.shields.io/badge/Next.js-0a0a1a?style=flat-square&logo=nextdotjs&logoColor=4d9fff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a1a?style=flat-square&logo=typescript&logoColor=4d9fff)
-![React](https://img.shields.io/badge/React-0a0a1a?style=flat-square&logo=react&logoColor=4d9fff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0a0a1a?style=flat-square&logo=tailwind-css&logoColor=4d9fff)
-![Vue.js](https://img.shields.io/badge/Vue.js-0a0a1a?style=flat-square&logo=vue.js&logoColor=4d9fff)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=fff)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a1a?style=flat-square&logo=postgresql&logoColor=4d9fff)
-![Supabase](https://img.shields.io/badge/Supabase-0a0a1a?style=flat-square&logo=supabase&logoColor=4d9fff)
-![Prisma](https://img.shields.io/badge/Prisma-0a0a1a?style=flat-square&logo=prisma&logoColor=4d9fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=fff)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=000)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=fff)
 
-![Vercel](https://img.shields.io/badge/Vercel-0a0a1a?style=flat-square&logo=vercel&logoColor=4d9fff)
-![Docker](https://img.shields.io/badge/Docker-0a0a1a?style=flat-square&logo=docker&logoColor=4d9fff)
-![n8n](https://img.shields.io/badge/n8n-0a0a1a?style=flat-square&logo=n8n&logoColor=4d9fff)
-![LINE](https://img.shields.io/badge/LINE_API-0a0a1a?style=flat-square&logo=line&logoColor=4d9fff)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=fff)
+![LINE](https://img.shields.io/badge/LINE_API-00C300?style=flat-square&logo=line&logoColor=fff)
 
 ---
 
@@ -57,8 +57,8 @@ Currently looking for a Frontend / Full-Stack internship.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Panuwatjr-05&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=4d9fff&icon_color=4d9fff&text_color=6a7fa8&ring_color=0066ff" height="155"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panuwatjr-05&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=4d9fff&text_color=6a7fa8" height="155"/>
+<img src="https://stats.hyochan.dev/api/github-stats?login=Panuwatjr-05&bg_color=0a0a1a&title_color=4d9fff&icon_color=4d9fff&text_color=6a7fa8&border_color=0a0a1a" height="155"/>
+<img src="https://stats.hyochan.dev/api/github-stats-lang?login=Panuwatjr-05&bg_color=0a0a1a&title_color=4d9fff&text_color=6a7fa8&border_color=0a0a1a" height="155"/>
 
 </div>
 
@@ -67,7 +67,5 @@ Currently looking for a Frontend / Full-Stack internship.
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0066ff,100:0a0a1a&height=100&section=footer" width="100%"/>
-
-![](https://komarev.com/ghpvc/?username=Panuwatjr-05&color=4d9fff&style=flat-square&label=profile+views)
 
 </div>
