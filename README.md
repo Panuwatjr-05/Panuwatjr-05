@@ -2,13 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,40:0033aa,60:0055ff,100:0a0a1a&height=200&section=header&text=PANUWAT%20RAPROMMA&fontSize=52&fontColor=ffffff&fontAlignY=50&animation=fadeIn&desc=✦%20Full-Stack%20Developer%20%7C%20CS%20@%20Naresuan%20University%20✦&descAlignY=68&descSize=16&descColor=7ab3ff&stroke=0055ff&strokeWidth=2" width="100%"/>
 
-<br/>
-
-`⚡ Next.js` &nbsp;`·`&nbsp; `TypeScript` &nbsp;`·`&nbsp; `PostgreSQL` &nbsp;`·`&nbsp; `Supabase`
-
-> 🚀 Building real products that ship to production &nbsp;|&nbsp; 🔵 Open to Frontend / Full-Stack internship
-
-<br/>
+0969590153
 
 [![Email](https://img.shields.io/badge/✉︎%20panuwatr66%40nu.ac.th-0a0a1a?style=for-the-badge&logo=gmail&logoColor=4d9fff&labelColor=0a0a1a&color=0a0a1a)](mailto:panuwatr66@nu.ac.th)
 &nbsp;
