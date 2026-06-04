@@ -1,64 +1,135 @@
-# Hi there, I'm Panuwat 👋
-
-### 📫 Contact Me
-<p>
-  <a href="mailto:panuwatr66@nu.ac.th">
-    <img src="https://img.shields.io/badge/Email-panuwatr66%40nu.ac.th-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://img.shields.io/badge/Phone-0969590153-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-</p>
-
-I'm a Computer Science student passionate about building scalable full-stack applications, designing robust databases, and creating seamless user experiences.
-
-### 🚀 Featured Projects
-
-#### 🛒 [BidBid](https://bidbid-app.vercel.app) | [GitHub Repository](https://github.com/Panuwatjr-05/BIDBID)
-A web-based auction platform that allows sellers to list products for bidding and buyers to place real-time bids with anti-sniping protection and automated auction management.
-*   **Tech Stack:** Next.js 14, TypeScript, Tailwind CSS, Supabase (PostgreSQL & Realtime), NextAuth, Vercel
-
-#### 🏨 [Naresuan NUDorm](https://nu-dorm.vercel.app) | [GitHub Repository](https://github.com/Panuwatjr-05/NUDorm)
-A web platform that helps Naresuan University students find nearby dormitories and allows property owners to list their accommodations.
-*   **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Prisma, PostgreSQL, NextAuth, Cloudinary, Nodemailer, Vercel
-
-#### 📝 [CHILL FILL](https://chill-fill.vercel.app) | [GitHub Repository](https://github.com/Panuwatjr-05/Chill_Fill)
-A personal productivity app for capturing daily tasks, managing projects, logging ideas before they slip away, and viewing everything on an interactive calendar.
-*   **Tech Stack:** Next.js 16, TypeScript, Tailwind v4, Base UI, Supabase (PostgreSQL, Auth, Realtime), Cloudinary, Vercel
-
-#### 🍽️ [Planning](https://planning-pearl-xi.vercel.app) | [GitHub Repository](https://github.com/Panuwatjr-05/Planning)
-A restaurant ordering system for managing menus, receiving customer orders via LINE OA, handling payment slip verification, and tracking sales revenue through an admin dashboard.
-*   **Tech Stack:** React 19, Vite 6, Supabase PostgreSQL, LINE Messaging API, Vercel
-
+<div align="center">
+```
+██████╗  █████╗ ███╗   ██╗██╗   ██╗██╗    ██╗ █████╗ ████████╗
+██╔══██╗██╔══██╗████╗  ██║██║   ██║██║    ██║██╔══██╗╚══██╔══╝
+██████╔╝███████║██╔██╗ ██║██║   ██║██║ █╗ ██║███████║   ██║   
+██╔═══╝ ██╔══██║██║╚██╗██║██║   ██║██║███╗██║██╔══██║   ██║   
+██║     ██║  ██║██║ ╚████║╚██████╔╝╚███╔███╔╝██║  ██║   ██║   
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝   ╚═╝  
+                                                                
+          R  A  P  R  O  M  M  A
+```
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Next.js+%7C+TypeScript+%7C+PostgreSQL;Building+scalable+web+applications" alt="Typing SVG" />
+<br/>
+![Email](https://img.shields.io/badge/panuwatr66%40nu.ac.th-EA4335?style=flat-square&logo=gmail&logoColor=white)
+![GitHub](https://img.shields.io/badge/Panuwatjr--05-181717?style=flat-square&logo=github&logoColor=white)
+![University](https://img.shields.io/badge/Naresuan_University-003087?style=flat-square&logo=academia&logoColor=white)
+</div>
 ---
-
-### 🛠️ Tech Stack & Tools
-
-**Frontend Development**
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-**Backend & Database**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-</p>
-
-**Deployment & Services**
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" alt="LINE" />
-</p>
-
-### 📈 GitHub Stats
-
-<!-- Remove the comments below to show your live stats -->
-<!-- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Panuwatjr-05&show_icons=true&theme=radium" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panuwatjr-05&layout=compact&theme=radium" alt="Top Languages" />
-</p>
--->
+`$ whoami`
+```ts
+const panuwat = {
+  name:       "Panuwat Rapromma",
+  university: "Naresuan University — B.Sc. Computer Science",
+  location:   "Phitsanulok, Thailand 🇹🇭",
+  focus:      ["Full-Stack Development", "Database Design", "UX-Driven Interfaces"],
+  seeking:    "Frontend / Full-Stack / Software Development Internship",
+  currentlyBuilding: "LINE-Based Financial Platform for Farmers 🌾",
+};
+```
+---
+⚡ Tech Stack
+<table>
+<tr>
+<td valign="top" width="50%">
+Frontend
+```
+Next.js · React · TypeScript
+Tailwind CSS · Vue.js
+```
+Backend & Database
+```
+Node.js · Express.js
+PostgreSQL · Supabase · Prisma
+```
+</td>
+<td valign="top" width="50%">
+Tools & Services
+```
+Git · GitHub · Figma · Docker
+Vercel · Cloudinary · n8n
+LINE Messaging API · AWS
+DigitalOcean · Supabase Realtime
+```
+</td>
+</tr>
+</table>
+---
+🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
+🛒 BidBid
+> Real-time auction marketplace
+A full-stack platform supporting fixed-price purchases and live auction bidding with anti-sniping protection and automated auction management.
+`Next.js` `TypeScript` `Supabase Realtime` `NextAuth` `PostgreSQL`
+⚡ Real-time bidding with countdown timers
+🔐 Role-based access: Buyer / Seller / Admin
+🏪 Store management for sellers
+![Live](https://img.shields.io/badge/Live-bidbid--app.vercel.app-6366F1?style=flat-square&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/Source-BIDBID-181717?style=flat-square&logo=github)
+</td>
+<td width="50%" valign="top">
+🏨 NUDorm
+> Dormitory finder for NU students
+Centralizes dorm listings near Naresuan University — search, compare side-by-side, and contact owners, all in one place.
+`Next.js` `TypeScript` `Prisma` `Cloudinary` `Nodemailer` `PostgreSQL`
+🔍 Multi-filter search system
+⚖️ Side-by-side comparison feature
+🏠 Owner listing management system
+![Live](https://img.shields.io/badge/Live-nu--dorm.vercel.app-6366F1?style=flat-square&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/Source-NUDorm-181717?style=flat-square&logo=github)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+🍽️ Chill Fill
+> Food ordering via LINE OA
+Restaurant ordering system operating entirely through LINE Messaging API — no dedicated app needed.
+`React 19` `Vite` `Supabase` `LINE Messaging API` `PostgreSQL`
+💬 Order via LINE, no extra app required
+📋 Payment slip verification in-chat
+📊 Admin panel with sales dashboard
+![Live](https://img.shields.io/badge/Live-chill--fill.vercel.app-6366F1?style=flat-square&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/Source-Chill__Fill-181717?style=flat-square&logo=github)
+</td>
+<td width="50%" valign="top">
+📝 Planning
+> Personal productivity planner
+Replaces traditional note-taking with a structured digital workflow featuring task scheduling, calendar view, and goal tracking.
+`Next.js` `TypeScript` `Tailwind v4` `Supabase` `Cloudinary`
+🗓️ Calendar view for upcoming tasks
+🎯 Priority levels & deadline tracking
+💡 Goal tracker + idea board
+![Live](https://img.shields.io/badge/Live-planning--pearl--xi.vercel.app-6366F1?style=flat-square&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/Source-Planning-181717?style=flat-square&logo=github)
+</td>
+</tr>
+</table>
+---
+🔬 Research
+A LINE-Based Financial Platform and Decision Support Dashboard for Farmers (Ongoing)  
+Naresuan University · Advisor: Adirek Rungrangsee
+A full-stack system integrated with LINE to help farmers track farm finances and crop health without a dedicated app.
+`Vue.js` `Node.js` `Express.js` `Supabase` `LINE LIFF` `n8n` `DigitalOcean`
+📱 LINE-based income/expense recording
+🤖 Automated data pipeline via n8n → Supabase
+📈 Decision-support dashboard for cost analysis & planting cycles
+---
+🏆 Experience
+Year	Role	Event
+2026	IT Support Staff	PACCON 2026 — Pure & Applied Chemistry International Conference
+2026	Prompt Engineer	AI Vibe Coding Competition @ SCI ACADEMIC EXPO 2026
+2024	Co-designer	Empathetic Support Solutions — Idea Pitch Day 2024
+---
+📊 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Panuwatjr-05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panuwatjr-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" height="165" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Panuwatjr-05&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" />
+</div>
+---
+<div align="center">
+"Building one commit at a time."
+![Profile Views](https://komarev.com/ghpvc/?username=Panuwatjr-05&color=6366f1&style=flat-square&label=Profile+Views)
+</div>
