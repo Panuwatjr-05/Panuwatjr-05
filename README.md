@@ -2,11 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,40:0033aa,60:0055ff,100:0a0a1a&height=200&section=header&text=PANUWAT%20RAPROMMA&fontSize=52&fontColor=ffffff&fontAlignY=50&animation=fadeIn&desc=✦%20Full-Stack%20Developer%20%7C%20CS%20@%20Naresuan%20University%20✦&descAlignY=68&descSize=16&descColor=7ab3ff&stroke=0055ff&strokeWidth=2" width="100%"/>
 
-0969590153
+<br/>
 
-[![Email](https://img.shields.io/badge/✉︎%20panuwatr66%40nu.ac.th-0a0a1a?style=for-the-badge&logo=gmail&logoColor=4d9fff&labelColor=0a0a1a&color=0a0a1a)](mailto:panuwatr66@nu.ac.th)
+[![Email](https://img.shields.io/badge/panuwatr66%40nu.ac.th-0a0a1a?style=for-the-badge&logo=gmail&logoColor=4d9fff&labelColor=0a0a1a)](mailto:panuwatr66@nu.ac.th)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/⌥%20Panuwatjr--05-0a0a1a?style=for-the-badge&logo=github&logoColor=4d9fff&labelColor=0a0a1a&color=0a0a1a)](https://github.com/Panuwatjr-05)
+[![Phone](https://img.shields.io/badge/096--959--0153-0a0a1a?style=for-the-badge&logo=phone&logoColor=4d9fff&labelColor=0a0a1a)](tel:0969590153)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/Panuwatjr--05-0a0a1a?style=for-the-badge&logo=github&logoColor=4d9fff&labelColor=0a0a1a)](https://github.com/Panuwatjr-05)
 
 <br/>
 
