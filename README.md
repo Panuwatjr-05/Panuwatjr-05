@@ -4,9 +4,11 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2500&pause=600&color=4D9FFF&center=true&vCenter=true&width=560&height=30&lines=⚡+Next.js+%7C+TypeScript+%7C+PostgreSQL+%7C+Supabase;🚀+Building+real+products+that+ship+to+production;🔵+Open+to+Frontend+%2F+Full-Stack+internship" alt="Typing" />
+`⚡ Next.js` &nbsp;`·`&nbsp; `TypeScript` &nbsp;`·`&nbsp; `PostgreSQL` &nbsp;`·`&nbsp; `Supabase`
 
-<br/><br/>
+> 🚀 Building real products that ship to production &nbsp;|&nbsp; 🔵 Open to Frontend / Full-Stack internship
+
+<br/>
 
 [![Email](https://img.shields.io/badge/✉︎%20panuwatr66%40nu.ac.th-0a0a1a?style=for-the-badge&logo=gmail&logoColor=4d9fff&labelColor=0a0a1a&color=0a0a1a)](mailto:panuwatr66@nu.ac.th)
 &nbsp;
