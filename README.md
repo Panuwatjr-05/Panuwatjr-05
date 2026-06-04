@@ -3,11 +3,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,40:0033aa,60:0055ff,100:0a0a1a&height=200&section=header&text=PANUWAT%20RAPROMMA&fontSize=52&fontColor=ffffff&fontAlignY=50&animation=fadeIn&desc=✦%20Full-Stack%20Developer%20%7C%20CS%20@%20Naresuan%20University%20✦&descAlignY=68&descSize=16&descColor=7ab3ff&stroke=0055ff&strokeWidth=2" width="100%"/>
 
 <br/>
-[![Email](https://custom-icon-badges.demolab.com/badge/panuwatjr2%40gmail.com-0a0a1a.svg?style=flat-square&logo=mail&logoColor=4d9fff&labelColor=0a0a1a)](mailto:panuwatjr2@gmail.com)
+[![Email](https://img.shields.io/badge/panuwatjr2%40gmail.com-0a0a1a?style=flat-square&logo=gmail&logoColor=4d9fff&labelColor=0a0a1a)](mailto:panuwatjr2@gmail.com)
 &nbsp;
-[![Phone](https://custom-icon-badges.demolab.com/badge/096--959--0153-0a0a1a.svg?style=flat-square&logoColor=4d9fff&labelColor=0a0a1a)](tel:0969590153)
+[![Phone](https://img.shields.io/badge/096--959--0153-0a0a1a?style=flat-square&logoColor=4d9fff&labelColor=0a0a1a)](tel:0969590153)
 &nbsp;
-[![GitHub](https://custom-icon-badges.demolab.com/badge/Panuwatjr--05-0a0a1a.svg?style=flat-square&logo=github&logoColor=4d9fff&labelColor=0a0a1a)](https://github.com/Panuwatjr-05)
+[![GitHub](https://img.shields.io/badge/Panuwatjr--05-0a0a1a?style=flat-square&logo=github&logoColor=4d9fff&labelColor=0a0a1a)](https://github.com/Panuwatjr-05)
 <br/>
 
 </div>
