@@ -19,9 +19,8 @@
 ### 🖥️ About Me
 
 ```txt
-  CS student @ Naresuan University passionate about building full-stack web applications.
-  I focus on clean architecture, real-time features, and shipping things that actually work.
-  Currently looking for a Frontend / Full-Stack internship.
+ I enjoy building web applications that solve real-world problems.
+I am currently studying full-stack development.
 ```
 
 ---
