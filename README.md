@@ -19,7 +19,7 @@
 ### 🖥️ About Me
 
 ```txt
- I enjoy building web applications that solve real-world problems.
+I enjoy building web applications that solve real-world problems.
 I am currently studying full-stack development.
 ```
 
