@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/panuwatr66%40nu.ac.th-0a0a1a?style=for-the-badge&logo=gmail&logoColor=4d9fff&labelColor=0a0a1a)](mailto:panuwatr66@nu.ac.th)
+[![Email](https://img.shields.io/badge/panuwatjr2%40gmail.com-0a0a1a?style=for-the-badge&logo=gmail&logoColor=4d9fff&labelColor=0a0a1a)](mailto:panuwatjr2@gmail.com)
 &nbsp;
 [![Phone](https://img.shields.io/badge/096--959--0153-0a0a1a?style=for-the-badge&logo=phone&logoColor=4d9fff&labelColor=0a0a1a)](tel:0969590153)
 &nbsp;
