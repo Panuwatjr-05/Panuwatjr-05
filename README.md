@@ -4,12 +4,11 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/panuwatjr2%40gmail.com-0a0a1a?style=for-the-badge&logo=gmail&logoColor=4d9fff&labelColor=0a0a1a)](mailto:panuwatjr2@gmail.com)
+[![Email](https://img.shields.io/badge/-panuwatjr2@gmail.com-0a0a1a?style=for-the-badge&logo=gmail&logoColor=4d9fff&labelColor=0a0a1a)](mailto:panuwatjr2@gmail.com)
 &nbsp;
-[![Phone](https://img.shields.io/badge/096--959--0153-0a0a1a?style=for-the-badge&logo=phone&logoColor=4d9fff&labelColor=0a0a1a)](tel:0969590153)
+[![Phone](https://img.shields.io/badge/-096--959--0153-0a0a1a?style=for-the-badge&logo=phone&logoColor=4d9fff&labelColor=0a0a1a)](tel:0969590153)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/Panuwatjr--05-0a0a1a?style=for-the-badge&logo=github&logoColor=4d9fff&labelColor=0a0a1a)](https://github.com/Panuwatjr-05)
-
+[![GitHub](https://img.shields.io/badge/-Panuwatjr--05-0a0a1a?style=for-the-badge&logo=github&logoColor=4d9fff&labelColor=0a0a1a)](https://github.com/Panuwatjr-05)
 <br/>
 
 </div>
