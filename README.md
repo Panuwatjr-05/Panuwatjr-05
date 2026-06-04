@@ -4,11 +4,11 @@
 
 <br/>
 
-[![Email](https://img.shields.io/static/v1?label=&message=panuwatjr2%40gmail.com&color=0a0a1a&style=for-the-badge&logo=gmail&logoColor=4d9fff)](mailto:panuwatjr2@gmail.com)
+[![Email](https://custom-icon-badges.demolab.com/badge/panuwatjr2@gmail.com-0a0a1a.svg?style=for-the-badge&logo=mail&logoColor=4d9fff&labelColor=0a0a1a)](mailto:panuwatjr2@gmail.com)
 &nbsp;
-[![Phone](https://img.shields.io/static/v1?label=&message=096-959-0153&color=0a0a1a&style=for-the-badge&logoColor=4d9fff)](tel:0969590153)
+[![Phone](https://custom-icon-badges.demolab.com/badge/096--959--0153-0a0a1a.svg?style=for-the-badge&logo=phone&logoColor=4d9fff&labelColor=0a0a1a)](tel:0969590153)
 &nbsp;
-[![GitHub](https://img.shields.io/static/v1?label=&message=Panuwatjr-05&color=0a0a1a&style=for-the-badge&logo=github&logoColor=4d9fff)](https://github.com/Panuwatjr-05)
+[![GitHub](https://custom-icon-badges.demolab.com/badge/Panuwatjr--05-0a0a1a.svg?style=for-the-badge&logo=github&logoColor=4d9fff&labelColor=0a0a1a)](https://github.com/Panuwatjr-05)
 <br/>
 
 </div>
